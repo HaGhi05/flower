@@ -30,34 +30,6 @@ button {
   font-size: 1rem;
 }
 
-.footer {
-  top: 50%;
-  padding: 3rem;
-  position: absolute;
-  margin-top: 1.5rem;
-  background-color: #1212e2;
-  color: white;
-}
-
-.footer a {
-  top: 50%;
-  position: absolute;
-  margin-top: 1.5rem;
-  color: white;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.footer a:hover {
-  color: #000080;
-}
-
-.footer li {
-  list-style: none;
-  display: inline;
-  margin: 0.5rem;
-}
-
 .night {
   position: fixed;
   left: 50%;
